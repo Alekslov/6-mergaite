@@ -1,0 +1,13 @@
+div {
+    width: 400px;
+    margin-left: calc( (100% - 400px) / 2 );
+    background-color: violet;
+}
+header {
+    display: inline-block;
+    width: 100%;
+    }
+main {
+    display: inline-block;
+    width: 100%;
+}
